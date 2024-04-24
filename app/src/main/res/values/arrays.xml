@@ -1,0 +1,7 @@
+<!-- res/values/arrays.xml -->
+<resources>
+    <string-array name="statistics_periods">
+        <item>Last Month</item>
+        <item>Last Year</item>
+    </string-array>
+</resources>

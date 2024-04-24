@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1066772484860",
+    "project_id": "moneythor-48353",
+    "storage_bucket": "moneythor-48353.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066772484860:android:bd91219164f8c3c3e67d79",
+        "android_client_info": {
+          "package_name": "com.stark.moneythor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066772484860-ikeo8h9lbc13ap7ere3d5t32911kcv5k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.stark.moneythor",
+            "certificate_hash": "803ca238acfef8e266228ea1d84f380d2f69a42d"
+          }
+        },
+        {
+          "client_id": "1066772484860-0p2ipmihrbiue2vff5h6hpbui4b7sfun.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_wh0VmodmZX1O0Ac7YAIwqnBgjwdJH20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066772484860-0p2ipmihrbiue2vff5h6hpbui4b7sfun.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

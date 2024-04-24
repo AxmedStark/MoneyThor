@@ -1,0 +1,45 @@
+<!-- res/layout/fragment_statistics.xml -->
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <Spinner
+        android:id="@+id/statisticsPeriodSpinner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:visibility="gone"
+        android:entries="@array/statistics_periods"
+        android:prompt="@string/select_period_prompt" />
+
+    <TextView
+        android:id="@+id/totalIncomeTextView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textAlignment="center"
+
+        android:text="@string/purchase_premium"
+        android:textSize="20sp"
+        android:padding="16dp" />
+ <TextView
+        android:id="@+id/textPremium"
+        android:layout_width="match_parent"
+        android:visibility="gone"
+        android:layout_height="wrap_content"
+         android:text="@string/purchase_premium"
+         android:textSize="18sp"
+        android:padding="16dp" />
+
+
+    <TextView
+        android:id="@+id/totalExpenseTextView"
+        android:visibility="gone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Total Expense: $0.0"
+        android:textSize="18sp"
+        android:padding="16dp" />
+
+</LinearLayout>

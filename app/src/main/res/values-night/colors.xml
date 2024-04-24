@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue_100">#FF387AFF</color>
+    <color name="blue_200">#FF5343DD</color>
+    <color name="cardBackground">#FF1D264D</color>
+    <color name="button">#FF555788</color>
+    <color name="bottomNav">#FF1D265C</color>
+    <color name="background">#FF232C3E</color>
+    <color name="background_deep">#FF1D213D</color>
+    <color name="textSecondary">#FF77B6DF</color>
+    <color name="textPrimary">#FFF2F2F2</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="transparent">#0000FFFF</color>
+    <color name="splashBackground">#FF232C4B</color>
+
+    <color name="green">#4CAF50</color>
+    <color name="green_light">#7BE47F</color>
+    <color name="yellow">#FFE500</color>
+    <color name="yellow_light">#FFEF61</color>
+    <color name="red">#F44336</color>
+    <color name="red_light">#C14B42</color>
+    <color name="brown">#932300</color>
+    <color name="brown_light">#8A432C</color>
+    <color name="violet">#673AB7</color>
+    <color name="violet_light">#745BA1</color>
+    <color name="blue">#3F51B5</color>
+    <color name="blue_light">#6778D3</color>
+
+
+</resources>
