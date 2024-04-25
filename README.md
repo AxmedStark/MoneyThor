@@ -13,8 +13,6 @@ Android app for monitoring your spendings
 
 • Expense Analysis 
 
-![photo_2024-04-25_10-21-11](https://github.com/AxmedStark/MoneyThor/assets/43389495/a1ecb18d-0c3a-4680-8c35-2bb17d35672f)
 
-
-![photo_2024-04-25_10-21-05](https://github.com/AxmedStark/MoneyThor/assets/43389495/5c8b3080-ac87-4bf3-b154-6a411f74d1b8)
-
+![photo_2024-04-25_10-21-11](https://github.com/AxmedStark/MoneyThor/assets/43389495/7ce9b918-450c-45ee-b735-f5383c48a9dd)
+![photo_2024-04-25_10-21-05](https://github.com/AxmedStark/MoneyThor/assets/43389495/58efc609-e590-4975-96d5-179d7ab5ee75)
