@@ -1,5 +1,5 @@
 <component name="libraryTable">
-  <library name="Gradle: com.google.apis:google-api-services-drive:v3-rev136-1.25.0">
+  <library name="Gradle: com.google.apis:google-api-services-drive:v3-rev136-1.25.0" external-system-id="GRADLE">
     <CLASSES>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.apis/google-api-services-drive/v3-rev136-1.25.0/b78e4a38db9eba0088f28360694ab735c9ad42a0/google-api-services-drive-v3-rev136-1.25.0.jar!/" />
     </CLASSES>

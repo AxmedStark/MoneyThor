@@ -1,9 +1,9 @@
 <component name="libraryTable">
-  <library name="Gradle: uk.co.samuelwall:material-tap-target-prompt:3.3.2@aar">
+  <library name="Gradle: uk.co.samuelwall:material-tap-target-prompt:3.3.2@aar" external-system-id="GRADLE">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/ed747034ddebca5160e2e34175c7c076/transformed/jetified-material-tap-target-prompt-3.3.2/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ed747034ddebca5160e2e34175c7c076/transformed/jetified-material-tap-target-prompt-3.3.2/AndroidManifest.xml" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ed747034ddebca5160e2e34175c7c076/transformed/jetified-material-tap-target-prompt-3.3.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/233076bf272ec47976a81daf87e06511/transformed/jetified-material-tap-target-prompt-3.3.2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-4/233076bf272ec47976a81daf87e06511/transformed/jetified-material-tap-target-prompt-3.3.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/233076bf272ec47976a81daf87e06511/transformed/jetified-material-tap-target-prompt-3.3.2/res" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/uk.co.samuelwall/material-tap-target-prompt/3.3.2/2405e62a97d30e636bfa6029e4ccddc2ed28348b/material-tap-target-prompt-3.3.2-javadoc.jar!/" />

@@ -1,9 +1,9 @@
 <component name="libraryTable">
-  <library name="Gradle: com.github.blackfizz:eazegraph:1.2.5l@aar">
+  <library name="Gradle: com.github.blackfizz:eazegraph:1.2.5l@aar" external-system-id="GRADLE">
     <CLASSES>
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/68809b444dd0f687a66123a3ded60d07/transformed/jetified-eazegraph-1.2.5l/AndroidManifest.xml" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/68809b444dd0f687a66123a3ded60d07/transformed/jetified-eazegraph-1.2.5l/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/68809b444dd0f687a66123a3ded60d07/transformed/jetified-eazegraph-1.2.5l/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-4/d5e1efad4ad0cd31ae16fda0347b2b75/transformed/jetified-eazegraph-1.2.5l/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/d5e1efad4ad0cd31ae16fda0347b2b75/transformed/jetified-eazegraph-1.2.5l/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/d5e1efad4ad0cd31ae16fda0347b2b75/transformed/jetified-eazegraph-1.2.5l/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
