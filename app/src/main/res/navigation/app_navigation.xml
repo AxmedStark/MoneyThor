@@ -77,9 +77,10 @@
         android:name="com.stark.moneythor.fragments.Profile"
         android:label="fragment_profile"
         tools:layout="@layout/fragment_profile" >
-        <action
-            android:id="@+id/openBackupDrive"
-            app:destination="@id/backupDrive" />
+        <action android:id="@+id/goToUserSignin"
+        app:destination="@id/userSignUp"
+        app:popUpTo="@id/userSignUp"
+        app:popUpToInclusive="true"/>
     </fragment>
     <fragment
         android:id="@+id/fragment_profile"

@@ -42,14 +42,6 @@ class UserSignUp: Fragment() {
     ): View? {
         binding = FragmentUserSignUpBinding.inflate(inflater, container, false)
 
-
-
-
-
-
-
-
-
         setUpSignUp()
         binding.googleSignUp.setOnClickListener {
             signIn()

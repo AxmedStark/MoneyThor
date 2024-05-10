@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.compose.ui:ui-unit-android:1.7.0-alpha08@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/a4b0d1eccbb78700388ce2de6bf6759e/transformed/jetified-ui-unit-release/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-4/a4b0d1eccbb78700388ce2de6bf6759e/transformed/jetified-ui-unit-release/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/a4b0d1eccbb78700388ce2de6bf6759e/transformed/jetified-ui-unit-release/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.ui/ui-unit-android/1.7.0-alpha08/581d4e5d19ea00f6a0648da59f2645e49e8413bc/ui-unit-android-1.7.0-alpha08-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.compose.ui/ui-unit-android/1.7.0-alpha08/5e532d468530e8a2839b3b1493b5f7c8ecd258df/ui-unit-1.7.0-alpha08-samples-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

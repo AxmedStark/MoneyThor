@@ -13,6 +13,7 @@ import android.net.Uri
 import android.os.Build
 import android.os.Bundle
 import android.os.CancellationSignal
+import android.util.Log
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
@@ -104,7 +105,6 @@ class Profile : Fragment() {
 
         binding.signOutButton.setOnClickListener {
             signOut()
-
         }
 
         return binding.root
@@ -112,34 +112,16 @@ class Profile : Fragment() {
     }
 
     private fun signOut() {
-//        val auth = FirebaseAuth.getInstance()
+        Log.d("Navigation", "Sign out button clicked") // Log statement to indicate button click
         auth.signOut()
         try {
-            // Use the generated action ID for navigating to the user signup fragment
-            Navigation.findNavController(requireView()).navigate(R.id.action_profile_to_user_signup)
+            // Use the generated action ID for navigating to the user signin fragment
+            Navigation.findNavController(requireView()).navigate(R.id.goToUserSignin)
+            Log.d("Navigation", "Navigating to user sign-up fragment") // Log statement after navigation
         } catch (e: IllegalArgumentException) {
             // Handle the case where the action is not found
             e.printStackTrace()
         }
-//        Navigation.findNavController(binding.root).navigate(R.id.userSignUp)
-
-//        requireActivity().finish()
-//        val gso = GoogleSignInOptions.Builder(GoogleSignInOptions.DEFAULT_SIGN_IN)
-//            .requestEmail()
-//            .requestScopes(Scope(DriveScopes.DRIVE_FILE))
-//            .build()
-//        client = GoogleSignIn.getClient(requireActivity(), gso)
-//        Navigation.findNavController(requireActivity(), R.id.fragmentContainerView2)
-//            .navigate(R.id.goToUserDetails,null,NavOptions.Builder().setPopUpTo(R.id.userSignUp,true).build())
-
-
-
-
-
-
-
-
-//        Navigation.findNavController(binding.root).navigate(R.id.userSignUp)
     }
 
 
@@ -396,7 +378,7 @@ class Profile : Fragment() {
         Toast.makeText(requireContext(),message,Toast.LENGTH_SHORT).show()
     }
 
-
+//    fun signOut(view: View) {}
 
 
 }
